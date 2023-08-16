@@ -1,7 +1,7 @@
 import HeroMain from './components/Hero/Hero.jsx'
 import './App.css'
 import NavHeader from './components/Nav/Nav.jsx'
-import TContent from './components/TopContent/TContent.jsx'
+import MyContent from './components/TopContent/Tcontent.jsx'
 const App = () => {
   return (
 <div className='App'>
