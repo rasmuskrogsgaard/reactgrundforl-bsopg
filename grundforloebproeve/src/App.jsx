@@ -3,6 +3,7 @@ import './App.css'
 import NavHeader from './components/Nav/Nav.jsx'
 import MyContent from './components/MainContent/MainContent.jsx'
 import MyGallery from './components/Gallery/Gallery.jsx'
+import MainFigure from './components/Figures/Figures.jsx'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
   <NavHeader/>
   <MyContent/>
   <MyGallery/>
+ <MainFigure/>
   
 
 </div>
