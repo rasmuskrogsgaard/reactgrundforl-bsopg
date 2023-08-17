@@ -1,0 +1,13 @@
+.gallery_container{
+padding: 200px;
+}
+
+article{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+article img{
+    width: 100%;
+}

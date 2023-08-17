@@ -1,11 +1,11 @@
+import logo from '../../assets/ColorWheel.png';
 import style from './hero.module.scss';
 const HeroMain =() => {
 return(
 
 <div className={style.h_frame}>
 
-<img src="assets/hero/ColorWheel.png"></img>
-
+<img src={logo}></img>
 <div className={style.h_container}>
 <h1>The Global Goals </h1>
 <span>For Sustainable Development</span>    
