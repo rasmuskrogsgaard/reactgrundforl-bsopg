@@ -12,6 +12,9 @@
     flex-direction: row;
     justify-content: space-between;
 
+img{width: 50vh}
+padding: 50px;
+
 }
 
 .h_container{
@@ -24,7 +27,7 @@ h1{
     
 }
 
-span{
+.title{
     color: #3399ff;
     font-size: 1.66rem;
 }

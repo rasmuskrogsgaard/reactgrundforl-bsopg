@@ -1,13 +1,12 @@
 .gallery_container{
-padding: 200px;
+padding: 100px;
 }
 
-article{
+main{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 
-}
-
-article img{
-    width: 100%;
+    img{
+        width: 100%;
+    }
 }

@@ -24,7 +24,7 @@ return (
 <p>FN's 17 Verdensmål er opdelt i 169 delmål. Delmålene er mere konkrete mål for, hvordan Verdensmålene skal opfyldes. For at måle på hvert delmål har FN formuleret en række indikatorer for de enkelte delmål.
 
 Se eksempler på enkelte delmål her:</p>
-<article>
+<main>
 <img src={logo1}></img>
 <img src={logo2}></img>
 <img src={logo3}></img>
@@ -43,7 +43,7 @@ Se eksempler på enkelte delmål her:</p>
 <img src={logo9}></img>
 <img src={logo17}></img>
 <img src={logogoals}></img>
-</article>
+</main>
 
 </div>
 

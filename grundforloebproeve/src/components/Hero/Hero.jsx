@@ -8,7 +8,7 @@ return(
 <img src={logo}></img>
 <div className={style.h_container}>
 <h1>The Global Goals </h1>
-<span>For Sustainable Development</span>    
+<span className={style.title}>For Sustainable Development</span>    
 </div>
 </div>
 )}
