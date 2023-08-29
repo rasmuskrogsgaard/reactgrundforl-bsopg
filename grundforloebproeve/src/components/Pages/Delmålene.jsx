@@ -5,6 +5,7 @@ const Delmålene = () => {
 <div>
 
 <h1 className={style.headers}>delmålene.</h1>
+<p> Det skal vise delmålene</p>
 
 </div>
     )

@@ -5,6 +5,8 @@ const Verdensmålene = () => {
     return (
         <div>
         <h1 className={style.headers}>verdensmålene.</h1>
+        <p> Det skal vise verdensmålene</p>
+
 
         </div>
     );

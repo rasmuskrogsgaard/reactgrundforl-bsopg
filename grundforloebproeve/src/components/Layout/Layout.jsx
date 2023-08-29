@@ -4,6 +4,7 @@ import NavHeader from "../Nav/Nav"
 import Verdensmålene from "../Pages/Verdensmålene"
 import Udfordringer from "../Pages/Udfordringer"
 import Delmålene from "../Pages/Delmålene"
+import Kontakt from "../Pages/Kontakt"
 const Layout = () =>{
     return(
         <div>
