@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 *{
-  font-family: Oswald;
+  font-family: 'Varela Round', sans-serif;
   color: #e9e9e9;
   line-height: 2em;
 

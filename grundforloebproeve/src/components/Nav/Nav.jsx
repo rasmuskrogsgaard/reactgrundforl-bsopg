@@ -1,18 +1,15 @@
-import style from './nav.module.scss';
+import React from "react";
+import { Link } from "react-router-dom";
+import style from "./nav.module.scss";
 const NavHeader = () => {
-return(
-<nav className={style.main_navbar}>
-    <li><a href="#home">Verdensmålene</a></li>
-    <li><a href="#home">Delmålene</a></li>
-    <li><a href="#home">Udfordringer</a></li>
-    <li><a href="#home">Kontakt</a></li>
-        
-</nav>
-
-
-
-)
-
-}
+  return (
+    <nav className={style.main_navbar}>
+      <Link to="/">verdensmålene</Link>
+      <Link to="/udfordringer">udfordringer</Link>
+      <Link to="/delmålene">delmålene</Link>¨
+      <Link to="/kontakt">kontakt</Link>
+    </nav>
+  );
+};
 
 export default NavHeader;
